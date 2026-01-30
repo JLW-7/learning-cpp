@@ -1,0 +1,20 @@
+{
+	"USACO C++ Header": {
+		"scope": "cpp",
+		"prefix": "u",
+		"body": [
+			"#include <bits/stdc++.h>",
+			"",
+			"using namespace std;",
+			"",
+			"int main() {",
+			"    ios::sync_with_stdio(false);",
+			"    cin.tie(nullptr);",
+			"    ",
+			"    ",
+			"}"
+		],
+		"description": "Basic USACO C++ header template"
+	}
+
+}
