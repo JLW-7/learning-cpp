@@ -3,7 +3,7 @@
 // Date: 2026
 // Contest: 1
 // Problem: 1
-// Level: Bronzed
+// Level: Bronze
 
 #include <bits/stdc++.h>
 
